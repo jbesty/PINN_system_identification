@@ -6,11 +6,11 @@ Code related to the submission of
 
 ## Citation
 
-@misc{stiasny2020physicsinformed,
-    title={Physics-Informed Neural Networks for Non-linear System Identification applied to Power System Dynamics},
-    author={Jochen Stiasny and George S. Misyris and Spyros Chatzivasileiadis},
-    year={2020},
-    eprint={2004.04026},
-    archivePrefix={arXiv},
-    primaryClass={eess.SY}
-}
+    @misc{stiasny2020physicsinformed,
+        title={Physics-Informed Neural Networks for Non-linear System Identification applied to Power System Dynamics},
+        author={Jochen Stiasny and George S. Misyris and Spyros Chatzivasileiadis},
+        year={2020},
+        eprint={2004.04026},
+        archivePrefix={arXiv},
+        primaryClass={eess.SY}
+    }
