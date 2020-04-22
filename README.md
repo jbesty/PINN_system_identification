@@ -23,3 +23,7 @@ The code is structured in the following way:
         archivePrefix={arXiv},
         primaryClass={eess.SY}
     }
+ 
+ ## Related work
+ 
+ The concept of PINNs was introduced by Raissi et al. (https://maziarraissi.github.io/PINNs/) and adapted to power systems by Misyris et al. (https://github.com/gmisy/Physics-Informed-Neural-Networks-for-Power-Systems). The presented code is inspired by these two sources. 
